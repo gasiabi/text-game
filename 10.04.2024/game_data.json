@@ -1,0 +1,59 @@
+[
+  {},
+  {
+    "save_file": "1",
+    "name": "Barbara",
+    "race": "elf",
+    "class1": "archer",
+    "game_level": "0"
+  },
+  {
+    "save_file": "test",
+    "name": "Antonis",
+    "race": "human",
+    "class1": "fighter",
+    "game_level": 0
+  },
+  {
+    "save_file": "test1",
+    "name": "Antek",
+    "race": "human",
+    "class1": "archer",
+    "game_level": 0
+  },
+  {
+    "save_file": "test3",
+    "name": "mneri",
+    "race": "anitur",
+    "class1": "mage",
+    "game_level": 0
+  },
+  {
+    "save_file": "test4",
+    "name": "mike",
+    "race": "elf",
+    "class1": "fighter",
+    "game_level": 0
+  },
+  {
+    "save_file": "testowy",
+    "name": "Barbara",
+    "race": "human",
+    "class1": "archer",
+    "game_level": 0
+  },
+  {
+    "save_file": "t1",
+    "name": "bas",
+    "race": "human",
+    "class1": "knight",
+    "game_level": 0
+  },
+  {
+    "save_file": "final",
+    "name": "Barbie",
+    "race": "elf",
+    "class1": "mage",
+    "game_level": 0
+  }
+]
